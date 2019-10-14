@@ -192,6 +192,9 @@ searching.addEventListener('click', () => {
   document.getElementById('video').classList.remove('video');
   document.getElementById('video').classList.add('hide');
   document.getElementById('containerImdb').innerHTML = '';
+  searching.classList.add('backgro-und');
+  recommended.classList.remove('backgro-und');
+  moviesTab.classList.remove('backgro-und');
   modalBuscar.classList.remove('hide');
   modalBuscar.classList.add('show');
   modalBuscar.classList.add('flexbox');
@@ -202,7 +205,7 @@ const showCardMovies = (array) => {
   for (let i = 0; i < array.length; i++) {
     const card = `
       <div name="jalar" id="${array[i].imdbID}" class="inline">
-        <img class="filter-poster" src="${array[i].Poster}"/>
+        <img class="filter-poster pointer" src="${array[i].Poster}"/>
        <p class="width"><a class="su-titulo" href="#">${array[i].Title}</a></p>
       </div>`;
     text += card;
@@ -255,6 +258,9 @@ recommended.addEventListener('click', () => {
   document.getElementById('video').classList.add('video');
   document.getElementById('filters').classList.add('hide');
   document.getElementById('containerImdb').innerHTML = '';
+  recommended.classList.add('backgro-und');
+  moviesTab.classList.remove('backgro-und');
+  searching.classList.remove('backgro-und');
   modalBuscar.classList.remove('flexbox');
   modalBuscar.classList.remove('show');
   modalBuscar.classList.add('hide');
@@ -267,6 +273,9 @@ recommended.addEventListener('click', () => {
 });
 moviesTab.addEventListener('click', () => {
   document.getElementById('containerImdb').innerHTML = '';
+  moviesTab.classList.add('backgro-und');
+  searching.classList.remove('backgro-und');
+  recommended.classList.remove('backgro-und');
   modalBuscar.classList.remove('flexbox');
   modalBuscar.classList.remove('show');
   modalBuscar.classList.add('hide');

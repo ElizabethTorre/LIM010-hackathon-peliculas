@@ -15,23 +15,29 @@
   <header id="header" class="">
     <section id="search-by-name" class="hide">
       <input type="text" class="search" placeholder="Busca por nombre" id="buscador" />
-      <a id="buscar" href="#"><i class="fa fa-search search-icon"></i></a>
+      <a id="buscar" href="#"><i class="fa fa-search search-icon pointer"></i></a>
     </section>
     <section id=logo>
-        <h1>MOVIE L<span><img class="logo" src="./img/logoLatin.png" alt="imagen logotipo" /></span>TIN</h1>
-      </section>
-    <section class="head">
-      <section class="menuNav">
-        <a class="menu" id="recommended" href="#">Recomendados</a>
-        <a class="menu" id="movies" href="#">Películas</a>
-        <a id="botonBuscar" class="menu" href="#"><i class="fa fa-search search-icon"></i>Buscar</a>
-      </section>
+      <h1>MOVIE L<span><img class="logo" src="./img/logoLatin.png" alt="imagen logotipo" /></span>TIN</h1>
+    </section>
+    <section class="header-menu">
+      <div class="logo-bars">
+        <label for="toggle"><i class="fa fa-bars" aria-hidden="true"></i></label>
+      </div>
+      <input type="checkbox" class="hide" id="toggle">
+      <nav class="navbar">
+        <ul class="main-nav">
+          <li><a class="menu pointer backgro-und" id="recommended" href="#">Recomendados</a></li>
+          <li><a class="menu pointer" id="movies" href="#">Películas</a></li>
+          <li><a id="botonBuscar" class="menu pointer" href="#"><i class="fa fa-search search-icon"></i>&nbsp;Buscar</a></li>
+        </ul>
+      </nav>
     </section>
   </header>
 
   <main>
     <section id="filters" class="filters hide">
-      <section class=" box1 box">
+      <section class=" box1 box pointer">
         <select name="countries" id="countries">
           <option value="0">Todos</option>
           <option value="Peru">Perú</option>
@@ -43,7 +49,7 @@
           <option value="Venezuela">Venezuela</option>
         </select>
       </section>
-      <section class=" box2 box">
+      <section class=" box2 box pointer">
         <select id="gender"></select>
       </section>
     </section>
@@ -61,20 +67,20 @@
       <i class="fa fa-chevron-right" aria-hidden="true" id="nextBtn"></i>
 
     </section>
-    <section class="cont" >
-    <div id="video" class="video">
+    <section id="video" class="cont video">
+      <!-- <div id="video" class="video"> -->
       <h class="taquillera">¡ASU MARE!</h>
       <p class="taquillaperu">Película más vista del Perú</p><br>
       <img
         src="https://m.media-amazon.com/images/M/MV5BMjM4OGQwMzEtMDZkMS00MjA0LTk0MjQtNDg0ODg0ZWI0NjQ3XkEyXkFqcGdeQXVyMjQ4NDAyMDI@._V1_SX300.jpg"
         alt="poster-asu-mare" />
-      <iframe width="600" height="402" src="https://www.youtube.com/embed/MaciHDa-6WI" frameborder="0"
+      <iframe src="https://www.youtube.com/embed/MaciHDa-6WI" frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-  </section>
+      <!-- </div> -->
+    </section>
     <div id="modal" class="modal hide">
       <div class="modal-content">
-        <span id="close" class="close">&times;</span>
+        <span id="close" class="close pointer">&times;</span>
         <div id="info-movie" class="info"></div>
       </div>
     </div>
