@@ -7,16 +7,17 @@
 
 ## Imagen final de nuestro proyecto.
 
-*Página 1*
-<img src="./src/img/PAGINA1.jpg" />
+*Recomendados*
+<img src="./src/img/recomendados.png" />
 
-*Página 2*
-<img src="./src/img/PAGINA2.jpg" />
+*Películas*
+<img src="./src/img/peliculas.png" />
 
-*Página 3*
-<img src="./src/img/PAGINA3.jpg" />
+*Buscador*
+<img src="./src/img/buscar.png" />
 
- *Modal que se visualiza en todas las peliculas*
+*Modal*
+
 <img src="./src/img/modal.png" />
 
 ## Investigación UX:
