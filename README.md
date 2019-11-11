@@ -31,9 +31,9 @@
 
 ## *Prototipo de baja fidelidad*
 
-<img src="src/img/1.jpeg" alt="prototipo 1"/>
+<img src="src/img/1.jpeg" alt="prototipo 1" width="170px"/>
 
-<img src="src/img/2.jpeg" alt="prototipo 2"/>
+<img src="src/img/2.jpeg" alt="prototipo 2" width="170px"/>
 
 Feedback 
 -Este proyecto fue testeado y el resumen de las apreciaciones y mejoras propuestas son las siguientes:
