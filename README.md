@@ -8,16 +8,16 @@
 ## Imagen final de nuestro proyecto.
 
 *Página 1*
-![enter image description here](https://lh3.googleusercontent.com/B4s4jO29-P6o-sS1-eGuylfjv-m8NkMQe_qfgQ4EpXX4LrLjwlgIEVzqVxmLn2herHvtbg00txDw)
+<img src="./src/img/PAGINA1.jpg" />
 
 *Página 2*
-![enter image description here](https://lh3.googleusercontent.com/Za9LgIPlrHZDKW8s92OMtyERJI3UPZDs3M7WZIYMFYJv9q_RImoUEQluqrIBvYxIk6F5AuV9Chva)
+<img src="./src/img/PAGINA2.jpg" />
 
 *Página 3*
- ![enter image description here](https://lh3.googleusercontent.com/7P0KTPmilMgYCxwS4UvzoumX2tz201uTgrZXKktJz0CsxAsKQtQFj4zmU5SrixvpIW9XUyuoVFIu)
- 
+<img src="./src/img/PAGINA3.jpg" />
+
  *Modal que se visualiza en todas las peliculas*
- ![enter image description here](https://lh3.googleusercontent.com/HBjO9KVnElFhCI_8Ihksi0-LUQRK1Q1fffCecMG78pFSJUn7-hN_SEoas0Y90Caw07FZzfloNzqE)
+<img src="./src/img/modal.png" />
 
 ## Investigación UX:
   - Este proyecto esta orientado a personas que desean tener mas informacion sobre cine hecho en Latinoamerica y cumple el objetivo de generar un canal de difusion de peliculas que no siempre llegan a mostrarse en cines comerciales.
@@ -26,9 +26,11 @@
     
 
 ## *Prototipo de baja fidelidad*
-   ![](https://lh3.googleusercontent.com/rUvR0D7PrYLJD4q3qolM5ync-NOWcfbaXyrsLI8w6EhtpLQb4SfYAbgaHbsngpNd12x_Ng4GyWyK "papel")
 
-![enter image description here](https://lh3.googleusercontent.com/B6oCO6xZbWrwsDynfvzXLXkLeDh_SPmXBZsq5iBBtlR8WFSqeM7mssq9wzgHAxNLljgTLkDUWzqU)
+<img src="./src/img/1.jpeg" />
+
+<img src="./src/img/2.jpeg" />
+
 Feedback 
 -Este proyecto fue testeado y el resumen de las apreciaciones y mejoras propuestas son las siguientes:
 
