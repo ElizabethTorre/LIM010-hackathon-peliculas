@@ -8,16 +8,16 @@
 ## Imagen final de nuestro proyecto.
 
 *Recomendados*
-<img src="./src/img/recomendados.png" alt="recomendados" />
+<img src="src/img/recomendados.png" alt="recomendados" />
 
 *Películas*
-<img src="./src/img/peliculas.png" alt="peliculas" />
+<img src="src/img/peliculas.png" alt="peliculas" />
 
 *Buscador*
-<img src="./src/img/buscar.png" alt="buscador" />
+<img src="src/img/buscar.png" alt="buscador" />
 
 *Modal*
-<img src="./src/img/modal.png" alt="modal"/>
+<img src="src/img/modal.png" alt="modal"/>
 
 ## Investigación UX:
   - Este proyecto esta orientado a personas que desean tener mas informacion sobre cine hecho en Latinoamerica y cumple el objetivo de generar un canal de difusion de peliculas que no siempre llegan a mostrarse en cines comerciales.
@@ -27,9 +27,9 @@
 
 ## *Prototipo de baja fidelidad*
 
-<img src="./src/img/1.jpeg" alt="prototipo 1"/>
+<img src="src/img/1.jpeg" alt="prototipo 1"/>
 
-<img src="./src/img/2.jpeg" alt="prototipo 2"/>
+<img src="src/img/2.jpeg" alt="prototipo 2"/>
 
 Feedback 
 -Este proyecto fue testeado y el resumen de las apreciaciones y mejoras propuestas son las siguientes:
