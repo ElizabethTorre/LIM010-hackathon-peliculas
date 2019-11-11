@@ -8,16 +8,20 @@
 ## Imagen final de nuestro proyecto.
 
 *Recomendados*
-<img src="src/img/recomendados.png" alt="recomendados" />
+<!-- <img src="src/img/recomendados.png" alt="recomendados" /> -->
+![recomendados](https://user-images.githubusercontent.com/51327685/68559753-22e87600-040c-11ea-9829-91d9bd7326dc.PNG)
 
 *Películas*
-<img src="src/img/peliculas.png" alt="peliculas" />
+<!-- <img src="src/img/peliculas.png" alt="peliculas" /> -->
+![peliculas](https://user-images.githubusercontent.com/51327685/68559756-254ad000-040c-11ea-8b09-91f39cacb62f.PNG)
 
 *Buscador*
-<img src="src/img/buscar.png" alt="buscador" />
+<!-- <img src="src/img/buscar.png" alt="buscador" /> -->
+![buscar](https://user-images.githubusercontent.com/51327685/68559759-27ad2a00-040c-11ea-8bc5-ea0e579bbb66.PNG)
 
 *Modal*
-<img src="src/img/modal.png" alt="modal"/>
+<!-- <img src="src/img/modal.png" alt="modal"/> -->
+![modal](https://user-images.githubusercontent.com/51327685/68559761-2aa81a80-040c-11ea-9cc6-1f81360954b2.PNG)
 
 ## Investigación UX:
   - Este proyecto esta orientado a personas que desean tener mas informacion sobre cine hecho en Latinoamerica y cumple el objetivo de generar un canal de difusion de peliculas que no siempre llegan a mostrarse en cines comerciales.
